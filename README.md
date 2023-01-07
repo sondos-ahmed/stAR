@@ -83,26 +83,26 @@ This software uses:
 
 
 [VSCode-url]: https://code.visualstudio.com/
-[VSCode]: https://img.shields.io/badge/IDE-VS%20Code-blue
+[VSCode]: https://img.shields.io/badge/IDE-VS%20Code-blue?style=for-the-badge
 [Android-url]: https://developer.android.com/studio
-[Android]: https://img.shields.io/badge/Emulation-Android%20Studio-brightgreen
+[Android]: https://img.shields.io/badge/Emulation-Android%20Studio-brightgreen?style=for-the-badge
 [DART-url]: https://dart.dev/
-[DART]: https://img.shields.io/badge/Programming-Dart-blue
+[DART]: https://img.shields.io/badge/Programming-Dart-blue?style=for-the-badge
 [Flutter-url]: https://flutter.dev/
-[Flutter]: https://img.shields.io/badge/UI-Flutter-blue
+[Flutter]: https://img.shields.io/badge/UI-Flutter-blue?style=for-the-badge
 [ar_flutter-url]: https://pub.dev/packages/ar_flutter_plugin
-[ar_flutter]: https://img.shields.io/badge/AR-ar__flutter__plugin-orange
+[ar_flutter]: https://img.shields.io/badge/AR-ar__flutter__plugin-orange?style=for-the-badge
 [Insmonia-url]: https://insomnia.rest/
-[Insomnia]: https://img.shields.io/badge/API%20testing-Insomnia-blueviolet
-[Three-JS]:https://img.shields.io/badge/3D-Three%20JS-yellow
+[Insomnia]: https://img.shields.io/badge/API%20testing-Insomnia-blueviolet?style=for-the-badge
+[Three-JS]:https://img.shields.io/badge/3D-Three%20JS-yellow?style=for-the-badge
 [Three-JS-url]:https://threejs.org/
-[GitHub]:https://img.shields.io/badge/Models%20Storage-GitHub-lightgrey
+[GitHub]:https://img.shields.io/badge/Models%20Storage-GitHub-lightgrey?style=for-the-badge
 [Github-url]: https://github.com/
 
 [StarMap-url]: https://docs.astronomyapi.com/endpoints/studio/star-chart
-[StarMap]: https://img.shields.io/badge/StarMap-AstronomyAPI-black
+[StarMap]: https://img.shields.io/badge/StarMap-AstronomyAPI-black?style=for-the-badge
 [NASA-url]: https://api.nasa.gov/
-[NASA]: https://img.shields.io/badge/Star%20Facts-NASA%20API-navy
+[NASA]: https://img.shields.io/badge/Star%20Facts-NASA%20API-navy?style=for-the-badge
 
 [Dom-url]: https://github.com/BaiDom
 [Dom]: https://img.shields.io/badge/Cosmic%20Janitor-Dom%20Baily-blueviolet?style=for-the-badge
